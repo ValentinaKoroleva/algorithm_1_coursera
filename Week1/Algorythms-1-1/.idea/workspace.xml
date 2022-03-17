@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7afb8543-10e3-4cf4-acff-92278535dca6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="1utEv9BisfsLWSVdZQ8HvfzFIpe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="/usr/local/lift/lib/stdlib.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="215" width="847" height="684" key="#Project_Structure" timestamp="1625476723179">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="215" width="847" height="684" key="#Project_Structure/72.27.1848.1053@72.27.1848.1053" timestamp="1625476723179" />
+    <state x="602" y="132" width="777" height="850" key="CommitChangelistDialog2" timestamp="1625483392972">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="602" y="132" width="777" height="850" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1625483392972" />
+    <state x="631" y="304" width="735" height="520" key="FileChooserDialogImpl" timestamp="1625483442919">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="631" y="304" width="735" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1625483442919" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1625477392741">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1625477392741" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1625483473801">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1625483473801" />
+    <state x="637" y="155" width="707" height="803" key="new project wizard" timestamp="1625483526166">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="637" y="155" width="707" height="803" key="new project wizard/72.27.1848.1053@72.27.1848.1053" timestamp="1625483526166" />
+    <state x="829" y="347" width="324" height="419" key="svn.repositoryBrowser" timestamp="1625483450531">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="829" y="347" width="324" height="419" key="svn.repositoryBrowser/72.27.1848.1053@72.27.1848.1053" timestamp="1625483450531" />
+  </component>
+</project>

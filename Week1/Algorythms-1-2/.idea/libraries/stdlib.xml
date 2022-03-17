@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="stdlib">
+    <CLASSES>
+      <root url="jar:///usr/local/lift/lib/stdlib.jar!/" />
+      <root url="jar:///usr/local/lift/lib/introcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/lift/lib/stdlib.jar!/" />
+      <root url="jar:///usr/local/lift/lib/introcs.jar!/" />
+    </SOURCES>
+  </library>
+</component>
